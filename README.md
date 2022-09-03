@@ -1,8 +1,6 @@
-<h1 align="center"> 📮 INCEPTION </h1>
+<h1 align="center"> 📮 FT_IRC </h1>
 
-<h2 align="center">one container is not enough we need to go deeper</h2>
-<br>
-<p align="center">
+<h2 align="center">Internet Relay Chat</h2>
 <p align=center>
   <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/aabduvak/ft_irc?color=red">
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/aabduvak/ft_irc?color=red">
