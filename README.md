@@ -1,4 +1,4 @@
-<h1 align="center"> 📮 FT_IRC </h1>
+<h1 align="center"> 📮 IRC SERVER </h1>
 
 <h2 align="center">Internet Relay Chat</h2>
 <p align=center>
